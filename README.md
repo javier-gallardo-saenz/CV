@@ -20,4 +20,4 @@ You can find my CV [here](./jgallardosaenz_CV.pdf).
 
 ---
 
-Feel free to reach out or connect with me via [email](jgallardosaenz@gmail.com).
+Feel free to reach out or connect with me via [email](<mailto:jgallardosaenz@gmail.com>).
