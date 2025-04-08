@@ -16,7 +16,7 @@ This repository contains my up-to-date CV as well as a list of my publications a
 
 ## 📎 CV
 
-You can find my CV [here](./YourName_CV.pdf).
+You can find my CV [here](./jgallardosaenz_CV.pdf).
 
 ---
 
