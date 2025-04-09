@@ -9,7 +9,7 @@ This repository contains my up-to-date CV as well as a list of my publications a
 ## 📝 Publications
 
 - **GeoDirDock: Guiding Docking Along Geodesic Paths**  
-  Presented at the [GEM-Bio Workshop](https://gem-bio.github.io/) at the International Conference on Learning Representations (ICLR), 2024.  
+  Presented at the GEM-Bio Workshop at the International Conference on Learning Representations (ICLR), 2024.  
   [📄 arXiv preprint](https://arxiv.org/abs/2404.06481)
 
 ---
