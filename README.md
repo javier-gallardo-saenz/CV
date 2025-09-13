@@ -8,6 +8,10 @@ This repository contains my up-to-date CV as well as a list of my publications a
 
 ## 📝 Publications
 
+- **Informed Protein–Ligand Docking via Geodesic Guidance in Translational, Rotational, and Torsional Spaces**  
+  Published in Nature Machine Intelligence, 2025.  
+  [📄 Paper](https://www.nature.com/articles/s42256-025-01091-x)
+
 - **GeoDirDock: Guiding Docking Along Geodesic Paths**  
   Presented at the GEM-Bio Workshop at the International Conference on Learning Representations (ICLR), 2024.  
   [📄 arXiv preprint](https://arxiv.org/abs/2404.06481)
@@ -16,7 +20,7 @@ This repository contains my up-to-date CV as well as a list of my publications a
 
 ## 📎 CV
 
-You can find my CV [here](./jgallardosaenz_CV.pdf).
+You can find my CV [here](./CV_JavierGallardoSaenz.pdf).
 
 ---
 
